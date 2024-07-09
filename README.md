@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kimunya-felix
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning ReactJS, AngularJS and WordPress 
+- 🌱 I’m currently learning ReactJS (Remix), .NET and WordPress 
 - 📫 How to reach me <kabethifelix77@gmail.com>
 
 <!---
